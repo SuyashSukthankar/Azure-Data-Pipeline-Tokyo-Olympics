@@ -18,3 +18,8 @@ Finally prepare dashboard in Power BI.
 Publish Power BI dashboard in Azure synapse workspace.
 
 ## Architecture
+![Architecture](https://github.com/SuyashSukthankar/Azure-Data-Pipeline-Tokyo-Olympics/assets/9166373/e2de6924-dda9-400e-9e7d-2f7361a57021)
+
+## Final Dashboard
+![TokyoOlympicsDashBoard](https://github.com/SuyashSukthankar/Azure-Data-Pipeline-Tokyo-Olympics/assets/9166373/850fe2da-8cde-482d-9325-532f7d81ef8b)
+
