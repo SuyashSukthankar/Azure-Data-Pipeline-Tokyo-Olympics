@@ -7,7 +7,7 @@ In this project, I build a pipeline in Azure using Azure DataFactory, Azure Data
 For this project, I worked with the 2021 Olympics dataset. This includes the information on more than 11,000 athletes competing in 47 sports for 743 Teams in the Tokyo Olympics in 2021. This dataset includes information on the participating Teams, Athletes, Coaches, and Entries by gender. 
 
 ## Tech Stack
-Language: SQL
+Language: SQL, Python
 Services: Azure Synapse Analytics, Azure Storage, Azure Synapse SQL Pool,Azure DataBricks, Power BI
 
 ## Process
